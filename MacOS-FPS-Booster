@@ -1,7 +1,5 @@
 #!/bin/sh
 
-echo "MacOS FPS Booster - By Scripture"
-
 targetFps=10000
 robloxPath="/Applications/Roblox.app"
 
