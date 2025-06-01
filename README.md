@@ -6,7 +6,7 @@ The first Roblox FPS unlocker for macOS. This script works  on both Intel and Ap
 
 You will first need to download the script, you can use the following command in the Terminal to do it:
 ```
-
+curl -sfL0 https://raw.githubusercontent.com/scripture2025/Other/refs/heads/main/MacOS-FPS-Booster
 ```
 And then run it using this command:
 ```
